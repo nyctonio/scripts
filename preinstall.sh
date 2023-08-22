@@ -5,3 +5,7 @@ sudo apt install nodejs
 sudo apt install npm
 sudo npm install -g n pnpm pm2
 sudo n lts
+
+
+
+// pm2 start "npm run dev" --name myAppName
